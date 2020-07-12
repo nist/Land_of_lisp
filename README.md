@@ -12,5 +12,5 @@ On a debian-type Linux distro :
 
 # Resources
 
-    [Book website](http://landoflisp.com/)
-    [Publisher website](https://nostarch.com/lisp.htm)
+* [Book website](http://landoflisp.com/)
+* [Publisher website](https://nostarch.com/lisp.htm)
