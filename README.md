@@ -8,7 +8,7 @@ A Lisp interpreter.
 
 On a debian-type Linux distro :
 
-    apt install clisp
+    sudo apt install clisp
 
 # Resources
 
